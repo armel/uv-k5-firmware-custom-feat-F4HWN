@@ -7,6 +7,12 @@
 
 Limitation : after changing Low level with Set Low menu option, you need to restart your pocket !
 
+As usual, you can use [online flasher](https://egzumer.github.io/uvtools).
+
+> [!WARNING]  
+> Use this firmware at your own risk (entirely). There is absolutely no guarantee that it will work in any way shape or form on your radio(s), it may even brick your radio(s), in which case, you'd need to buy another radio.
+Anyway, have fun.
+
 # Open re-implementation of the Quansheng UV-K5/K6/5R v2.1.27 firmware
 
 This repository is a merge of [OneOfEleven custom firmware](https://github.com/OneOfEleven/uv-k5-firmware-custom) with [fagci spectrum analizer](https://github.com/fagci/uv-k5-firmware-fagci-mod/tree/refactor) plus my few changes.<br>
