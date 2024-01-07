@@ -1,6 +1,6 @@
 # About this experimental version feat by F4HWN
 
-- improve power settings level (Low ~0.125W, Mid ~2W and High ~5W), 
+- improve power settings level (Low ~125mW, Mid ~2W and High ~5W), 
 - improve smeter (IARU recommandations), 
 - improve menu index by adding a slash, 
 - add Set Low menu (125mW, 250mW, 500mW)
