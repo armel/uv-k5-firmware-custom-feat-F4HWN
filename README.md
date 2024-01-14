@@ -3,7 +3,8 @@
 - improve power settings level (Low ~125mW, Mid ~2W and High ~5W), 
 - improve smeter (IARU recommandations), 
 - improve menu index by adding a slash, 
-- add Set Low menu (125mW, 250mW, 500mW)
+- add Set Low menu (125mW, 250mW, 500mW),
+- improve tot alert (blink screen or led, 10 seconds before).
 
 Limitation : after changing Low level with Set Low menu option, you need to restart your pocket !
 
