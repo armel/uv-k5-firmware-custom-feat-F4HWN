@@ -6,8 +6,6 @@
 - add Set Low menu (<20mW, 125mW, 250mW, 500mW and 1W),
 - improve tot alert (blink screen or led, 10 seconds before).
 
-Limitation : after changing Low level with Set Low menu option, you need to restart your pocket !
-
 As usual, you can use [online flasher](https://egzumer.github.io/uvtools).
 
 > [!WARNING]  
