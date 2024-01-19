@@ -13,7 +13,7 @@ As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwa
 Anyway, have fun.
 
 > [!WARNING]  
-> I recommend thinking about backing up your eeprom with [k5prog](https://github.com/sq5bpf/k5prog) before playing with alternative firmwares. It's a good reflex to have. 
+> I recommend to backup your eeprom with [k5prog](https://github.com/sq5bpf/k5prog) before playing with alternative firmwares. It's a good reflex to have. 
 
 
 # Open re-implementation of the Quansheng UV-K5/K6/5R v2.1.27 firmware
