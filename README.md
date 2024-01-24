@@ -1,10 +1,11 @@
 # About this experimental version feat by F4HWN
 
-- improve power settings level (Low ~125mW, Mid ~2W and High ~5W), 
-- improve smeter (IARU recommandations), 
-- improve menu index by adding a slash, 
-- add Set Low menu (<20mW, 125mW, 250mW, 500mW and 1W),
-- improve tot alert (blink screen or led, 10 seconds before).
+- improve default power settings level (Low ~125mW, Mid ~2W and High ~5W), 
+- improve s-meter (IARU recommandations), 
+- improve UI (menu, s-meter, MAIN ONLY screen, etc.),
+- add SetLow menu (<20mW, 125mW, 250mW, 500mW and 1W),
+- add tot visual alert (blink screen or led, 10 seconds before),
+- add many fix (squelch, s-meter and DTMF overlaying, scan list 2 ignored, etc.).
 
 As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/firmware.packed.bin).
 
