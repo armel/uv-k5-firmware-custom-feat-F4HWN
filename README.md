@@ -31,9 +31,9 @@ Anyway, have fun.
 
 Here are a few photos.
 
-|![Option SetPtt](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3080.jpeg)|
+|![SetPtt Option](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3080.jpeg)|
 |:--:|
-| Option SetPtt |
+| SetPtt Option |
 
 
 |![Dual RX Respond](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3082.jpeg)|
