@@ -27,6 +27,30 @@ Anyway, have fun.
 >
 > _FR - Je recommande de sauvegarder votre eeprom avec [k5prog](https://github.com/sq5bpf/k5prog) avant de jouer avec des firmwares alternatifs. C'est un bon réflexe à avoir._
 
+# Some photos
+
+Here are a few photos.
+
+|![Option SetPtt](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3080.jpeg)|
+|:--:|
+| Option SetPtt |
+
+
+|![Dual RX Respond](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3082.jpeg)|
+|:--:|
+| Dual RX Respond |
+
+
+|![Main Only](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3081.jpeg)|
+|:--:|
+| Main Only |
+
+
+|![Main TX Dual RX](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3079.jpeg)|
+|:--:|
+| Main TX Dual RX |
+
+
 # About enabled/disabled compile options of this experimental version feat by F4HWN
 
 Here are the full settings,
