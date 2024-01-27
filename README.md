@@ -31,22 +31,22 @@ Anyway, have fun.
 
 Here are a few photos.
 
-|![Option SetPtt](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3080.jpeg)|
+|![Option SetPtt](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3080.jpeg)|
 |:--:|
 | Option SetPtt |
 
 
-|![Dual RX Respond](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3082.jpeg)|
+|![Dual RX Respond](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3082.jpeg)|
 |:--:|
 | Dual RX Respond |
 
 
-|![Main Only](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3081.jpeg)|
+|![Main Only](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3081.jpeg)|
 |:--:|
 | Main Only |
 
 
-|![Main TX Dual RX](https://github.com/armel/M5HamRadio/blob/main/photos/IMG_3079.jpeg)|
+|![Main TX Dual RX](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3079.jpeg)|
 |:--:|
 | Main TX Dual RX |
 
