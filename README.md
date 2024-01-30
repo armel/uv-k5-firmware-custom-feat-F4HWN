@@ -12,7 +12,7 @@ Based on Egzumer v0.22,
 - add many fix (squelch, s-meter and DTMF overlaying, scan list 2 ignored, etc.),
 - enabled ENABLE_CTCSS_TAIL_PHASE_SHIFT,
 - disabled ENABLE_DTMF_CALLING,
-- add actions SWITCH MAIN ONLY and SWITCH PTT
+- add actions SWITCH MAIN ONLY and SWITCH PTT.
 
 As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/firmware.packed.bin).
 
