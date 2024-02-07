@@ -14,7 +14,7 @@ Based on Egzumer v0.22,
 - enabled ENABLE_CTCSS_TAIL_PHASE_SHIFT,
 - disabled ENABLE_DTMF_CALLING,
 - add actions SWITCH MAIN ONLY, SWITCH PTT, SWITCH WIDE NARROW,
-- disabled SCRAMBLER,
+- disabled SCRAMBLER.
 
 As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/firmware.packed.bin).
 
