@@ -4,17 +4,19 @@ Based on Egzumer v0.22,
 
 - improve default power settings level (Low ~125mW, Mid ~2W and High ~5W), 
 - improve s-meter (IARU recommandations), 
-- improve UI (menu, s-meter, MAIN ONLY screen, RX blink, etc.),
+- improve UI (menu, s-meter, MAIN ONLY screen, RX blink, Squelch level, etc.),
 - add SetLow menu to set low power (<20mW, 125mW, 250mW, 500mW and 1W),
 - add SetPtt menu to set PTT mode (Classic or OnePush),
 - add SetTot menu to set TOT alert (Off, Sound, Visual, All),
 - add SetCtr menu to set contrast (0 to 20),
+- add SetInv menu to set screen in invert mode (On or Off,
 - add SetPtt mode in status bar,
 - add many fix (squelch, s-meter and DTMF overlaying, scan list 2 ignored, etc.),
 - enabled ENABLE_CTCSS_TAIL_PHASE_SHIFT,
 - disabled ENABLE_DTMF_CALLING,
-- add actions SWITCH MAIN ONLY, SWITCH PTT and SWITCH WIDE NARROW,
-- disabled SCRAMBLER.
+- add actions SWITCH MAIN ONLY, SWITCH PTT, SWITCH WIDE NARROW and 1750Hz,
+- disabled SCRAMBLER,
+- special process to unlock TX on all bands needs only to be repeat 3 times.
 
 As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/firmware.packed.bin).
 
