@@ -35,6 +35,10 @@ Anyway, have fun.
 >
 > _FR - Je recommande de sauvegarder votre eeprom avec [k5prog](https://github.com/sq5bpf/k5prog) avant de jouer avec des firmwares alternatifs. C'est un bon réflexe à avoir._
 
+# Old versions
+
+You can find all the older versions of my modified firmware in the [archive](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/tree/main/archive) directory.
+
 # Some photos
 
 Here are a few photos.
@@ -57,10 +61,6 @@ Here are a few photos.
 |![Main TX Dual RX](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3079.jpeg)|
 |:--:|
 | Main TX Dual RX |
-
-# Old versions
-
-You can find all the older versions of my modified firmware in the [archive](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/tree/main/archive) directory.
 
 # About enabled/disabled compile options of this experimental version feat by F4HWN
 
