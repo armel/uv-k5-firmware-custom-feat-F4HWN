@@ -51,6 +51,10 @@ Anyway, have fun.
 
 You can find all the older versions of my modified firmware in the [archive](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/tree/main/archive) directory.
 
+# Donations
+
+Special thanks to Jean-Cyrille F6IWW, Fabrice 14RC123, David F4BPP, Olivier and Frédéric F4ESO for their [donations](https://www.paypal.com/paypalme/F4HWN). That’s so kind of them. Thanks so much 🙏🏻
+
 # Some photos
 
 Here are a few photos.
