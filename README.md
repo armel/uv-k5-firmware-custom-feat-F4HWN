@@ -4,7 +4,7 @@ Based on Egzumer v0.22,
 
 - improve default power settings level (Low ~125mW, Mid ~2W and High ~5W),
 - improve s-meter (IARU recommandations),
-- improve UI (menu, s-meter, MAIN ONLY mode, DUAL and CROSS mode, RX blink, RX LED blink, Squelch level, Mon, etc.),
+- improve UI (menu, s-meter, MAIN ONLY mode, DUAL and CROSS mode, RX blink, RX LED blink, Squelch level, Step, Mon, etc.),
 - Improve status bar,
 - Improve PonMsg menu,
 - add SetLow menu to set low power (<20mW, 125mW, 250mW, 500mW and 1W),
@@ -20,9 +20,11 @@ Based on Egzumer v0.22,
 - add VFO number on MAIN ONLY mode,
 - add actions SWITCH RxMode, SWITCH PTT, SWITCH WIDE NARROW and 1750Hz,
 - add the F + UP or F + DOWN key combination to dynamically change the Squelch level,
+- add the F + F1 or F + F2 key combination to dynamically change the Step,
 - add many fix (squelch, s-meter and DTMF overlaying, scan list 2 ignored, scan range limit, etc.),
 - change KeyLock message,
 - enabled ENABLE_CTCSS_TAIL_PHASE_SHIFT,
+- enabled ENABLE_BLMIN_TMP_OFF,
 - disabled ENABLE_DTMF_CALLING,
 - disabled SCRAMBLER,
 - special process to unlock TX on all bands needs only to be repeat 3 times,
@@ -116,7 +118,7 @@ ENABLE_SPECTRUM               := 1       fagci spectrum analyzer, activated with
 ENABLE_REDUCE_LOW_MID_TX_POWER:= 0       makes medium and low power settings even lower
 ENABLE_FEAT_F4HWN             := 1       changes by F4HWN 
 ENABLE_BYP_RAW_DEMODULATORS   := 0       additional BYP (bypass?) and RAW demodulation options, proved not to be very useful, but it is there if you want to experiment
-ENABLE_BLMIN_TMP_OFF          := 0       additional function for configurable buttons that toggles `BLMin` on and off wihout saving it to the EEPROM
+ENABLE_BLMIN_TMP_OFF          := 1       additional function for configurable buttons that toggles `BLMin` on and off wihout saving it to the EEPROM
 ENABLE_SCAN_RANGES            := 1       scan range mode for frequency scanning, see wiki for instructions (radio operation -> frequency scanning)
 ```
 
