@@ -59,24 +59,24 @@ Special thanks to Jean-Cyrille F6IWW, Fabrice 14RC123, David F4BPP, Olivier, Fr√
 
 Here are a few photos.
 
-|![SetPtt Option](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3080.jpeg)|
+|![Main Only and Dual RX Respond](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3291.png)|
 |:--:|
-| SetPtt Option |
+| Main Only and Dual RX Respond |
 
 
-|![Dual RX Respond](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3082.jpeg)|
+|![Main Only and Dual RX Respond (invert mode)](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3290.png)|
 |:--:|
-| Dual RX Respond |
+| Main Only and Dual RX Respond (invert mode) |
 
 
-|![Main Only](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3081.jpeg)|
+|![Some new menu entries](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3292.png)|
 |:--:|
-| Main Only |
+| Some new menu entries |
 
 
-|![Main TX Dual RX](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3079.jpeg)|
+|![Main Only and Spectrum Analyzer](https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/blob/main/photos/IMG_3293.png)|
 |:--:|
-| Main TX Dual RX |
+| Main Only and Spectrum Analyzer |
 
 # About enabled/disabled compile options of this experimental version feat by F4HWN
 
