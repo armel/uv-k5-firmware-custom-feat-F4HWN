@@ -30,7 +30,7 @@ Based on Egzumer v0.22,
 - special process to unlock TX on all bands needs only to be repeat 3 times,
 - and more...
 
-As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/firmware.packed.bin).
+As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/f4hwn.packed.bin).
 
 
 > [!NOTE]
