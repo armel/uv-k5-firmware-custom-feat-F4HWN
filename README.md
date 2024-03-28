@@ -2,34 +2,62 @@
 
 Based on Egzumer v0.22,
 
-- improve default power settings level (Low ~125mW, Mid ~2W and High ~5W),
-- improve s-meter (IARU recommandations),
-- improve UI (menu, s-meter, MAIN ONLY mode, DUAL and CROSS mode, RX blink, RX LED blink, Squelch level, Step, Mon, last RX, etc.),
-- Improve status bar,
-- Improve PonMsg menu,
-- add SetLow menu to set low power (<20mW, 125mW, 250mW, 500mW and 1W),
-- add SetPtt menu to set PTT mode (Classic or OnePush),
-- add SetTot menu to set TOT alert (Off, Sound, Visual, All),
-- add SetCtr menu to set contrast (0 to 15),
-- add SetInv menu to set screen in invert mode (On or Off),
-- add SetEot menu to set EOT (End Of Transmission) alert (Off, Sound, Visual, All),
-- add SetMet menu to set s-meter style (Classic or Tiny),
-- add SetLck menu to set what is locked (Keys or Keys + PTT),
-- add SetGui menu to set font size on the VFO baseline (Classic or Tiny),
-- add SetPtt mode in status bar,
-- add VFO number on MAIN ONLY mode,
-- add actions SWITCH RxMode, SWITCH PTT, SWITCH WIDE NARROW and 1750Hz,
-- add the F + UP or F + DOWN key combination to dynamically change the Squelch level,
-- add the F + F1 or F + F2 key combination to dynamically change the Step,
-- add F+8 to quickly switch backlight between BLMin and BLMax on demand (this bypass BackLt strategy),
-- add F+9 to return to BackLt strategy.
-- add many fix (squelch, s-meter and DTMF overlaying, scan list 2 ignored, scan range limit, etc.),
-- change KeyLock message,
-- enabled ENABLE_CTCSS_TAIL_PHASE_SHIFT,
-- disabled ENABLE_DTMF_CALLING,
-- disabled SCRAMBLER,
-- special process to unlock TX on all bands needs only to be repeat 3 times,
-- and more...
+* improve default power settings level (Low ~125mW, Mid ~2W and High ~5W),
+* improve s-meter (IARU recommandations),
+* improve UI: 
+    * menu index, 
+    * s-meter design, 
+    * MAIN ONLY screen mode, 
+    * DUAL and CROSS screen mode, 
+    * RX blink on VFO RX, 
+    * RX LED blink, 
+    * Squelch level and Monitor,
+    * Step value,
+    * CTCSS or DCS value,
+    * KeyLock message,
+    * last RX,
+    * and more...
+* new menu entries:
+    * add SetLow menu to set low power (<20mW, 125mW, 250mW, 500mW and 1W),
+    * add SetPtt menu to set PTT mode (Classic or OnePush),
+    * add SetTot menu to set TOT alert (Off, Sound, Visual, All),
+    * add SetCtr menu to set contrast (0 to 15),
+    * add SetInv menu to set screen in invert mode (Off or On),
+    * add SetEot menu to set EOT (End Of Transmission) alert (Off, Sound, Visual, All),
+    * add SetMet menu to set s-meter style (Classic or Tiny),
+    * add SetLck menu to set what is locked (Keys or Keys + PTT),
+    * add SetGui menu to set font size on the VFO baseline (Classic or Tiny),
+    * rename BatVol menu (52/63) to SysInf, which displays the firmware version in addition to the battery status,
+    * improve PonMsg menu,
+* improve status bar,
+    * add SetPtt mode in status bar,
+    * change font and bitmaps,
+* new actions:
+    * SWITCH RxMode, 
+    * SWITCH PTT, 
+    * SWITCH WIDE NARROW,
+    * 1750Hz,
+    * BlMin Tmp Pff,
+* new key combinations:
+    * add the F + UP or F + DOWN key combination to dynamically change the Squelch level,
+    * add the F + F1 or F + F2 key combination to dynamically change the Step,
+    * add F + 8 to quickly switch backlight between BLMin and BLMax on demand (this bypass BackLt strategy),
+    * add F + 9 to return to BackLt strategy,
+    * add long press on MENU, in * SCAN mode, to temporarily exclude a memory channel if (not working with * SCAN ALL).
+* many fix:
+    * squelch, 
+    * s-meter,
+    * DTMF overlaying, 
+    * scan list 2 ignored, 
+    * scan range limit,
+    * clean display on startup,
+    * and more...
+* disabled ENABLE_DTMF_CALLING,
+* disabled SCRAMBLER,
+* unlock TX on all bands needs only to be repeat 3 times,
+* remove blink and SOS functionality, 
+* code refactoring and many memory optimization,
+* and more...
 
 As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/f4hwn.packed.bin).
 
@@ -38,10 +66,10 @@ As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwa
 About SetPtt menu, if you select the OnePush option, you no longer need to press the PTT continuously to transmit. Simply press once to start transmission, and press a second time to stop. No more finger cramps :)
 
 > [!WARNING]
-> EN - Use this firmware at your own risk (entirely). There is absolutely no guarantee that it will work in any way shape or form on your radio(s), it may even brick your radio(s), in which case, you'd need to buy another radio.
+> EN - THIS FIRMWARE HAS NO REAL BRAIN. PLEASE USE YOUR OWN. Use this firmware at your own risk (entirely). There is absolutely no guarantee that it will work in any way shape or form on your radio(s), it may even brick your radio(s), in which case, you'd need to buy another radio.
 Anyway, have fun.
 >
-> _FR - Utilisez ce firmware à vos risques et périls. Il n'y a absolument aucune garantie qu'il fonctionnera d'une manière ou d'une autre sur votre (vos) radio(s), il peut même bousiller votre (vos) radio(s), dans ce cas, vous devrez acheter une autre radio. Quoi qu'il en soit, amusez-vous bien._
+> _FR - CE FIRMWARE N'A PAS DE VÉRITABLE CERVEAU. VEUILLEZ UTILISER LE VÔTRE. Utilisez ce firmware à vos risques et périls. Il n'y a absolument aucune garantie qu'il fonctionnera d'une manière ou d'une autre sur votre (vos) radio(s), il peut même bousiller votre (vos) radio(s), dans ce cas, vous devrez acheter une autre radio. Quoi qu'il en soit, amusez-vous bien._
 
 > [!CAUTION]
 > EN - I recommend to backup your eeprom with [k5prog](https://github.com/sq5bpf/k5prog) before playing with alternative firmwares. It's a good reflex to have. 
