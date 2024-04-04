@@ -1,6 +1,6 @@
 # About this experimental version feat by F4HWN
 
-Based on Egzumer v0.22,
+My firmware is based on [Egzumer](https://github.com/egzumer/uv-k5-firmware-custom) v0.22. Source code of my firmware is available on this [repository](https://github.com/armel/uv-k5-firmware-custom). I added this changes :
 
 * improve default power settings level (Low ~125mW, Mid ~2W and High ~5W),
 * improve s-meter (IARU recommandations),
