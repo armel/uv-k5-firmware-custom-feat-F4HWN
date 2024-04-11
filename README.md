@@ -29,6 +29,8 @@ My firmware is based on [Egzumer](https://github.com/egzumer/uv-k5-firmware-cust
     * add SetGui menu to set font size on the VFO baseline (Classic or Tiny),
     * rename BatVol menu (52/63) to SysInf, which displays the firmware version in addition to the battery status,
     * improve PonMsg menu,
+    * improve BackLt menu,
+    * improve TxTOut menu,
 * improve status bar,
     * add SetPtt mode in status bar,
     * change font and bitmaps,
@@ -55,6 +57,7 @@ My firmware is based on [Egzumer](https://github.com/egzumer/uv-k5-firmware-cust
 * disabled ENABLE_DTMF_CALLING,
 * disabled SCRAMBLER,
 * unlock TX on all bands needs only to be repeat 3 times,
+* add PMR 446 F Lock band,
 * remove blink and SOS functionality, 
 * code refactoring and many memory optimization,
 * and more...
