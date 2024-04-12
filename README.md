@@ -66,7 +66,14 @@ As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwa
 
 
 > [!NOTE]
-About SetPtt menu, if you select the OnePush option, you no longer need to press the PTT continuously to transmit. Simply press once to start transmission, and press a second time to stop. No more finger cramps :)
+> EN - About Chirp, as many others firmwares, you need to use a dedicated driver available on [this repository](https://github.com/armel/uv-k5-chirp-driver). 
+>
+> _FR - A propos de Chirp, comme beaucoup d'autres firmwares, vous devez utiliser un pilote dédié disponible sur [ce dépôt](https://github.com/armel/uv-k5-chirp-driver)._
+
+> [!NOTE]
+> EN - About SetPtt menu, if you select the OnePush option, you no longer need to press the PTT continuously to transmit. Simply press once to start transmission, and press a second time to stop. No more finger cramps :)
+>
+> _FR - Dans le menu SetPtt, si vous sélectionnez l'option OnePush, vous n'avez plus besoin d'appuyer continuellement sur le PTT pour transmettre. Il vous suffit d'appuyer une fois pour commencer la transmission, et d'appuyer une seconde fois pour l'arrêter. Plus de crampes aux doigts :)_
 
 > [!WARNING]
 > EN - THIS FIRMWARE HAS NO REAL BRAIN. PLEASE USE YOUR OWN. Use this firmware at your own risk (entirely). There is absolutely no guarantee that it will work in any way shape or form on your radio(s), it may even brick your radio(s), in which case, you'd need to buy another radio.
@@ -85,7 +92,7 @@ You can find all the older versions of my modified firmware in the [archive](htt
 
 # Donations
 
-Special thanks to Jean-Cyrille F6IWW, Fabrice 14RC123, David F4BPP, Olivier 14RC206, Frédéric F4ESO, Stéphane F5LGW, Jorge Ornelas, Laurent F4AXK, Christophe Morel, Clayton W0LED and Pierre Antoine F6FWB for their [donations](https://www.paypal.com/paypalme/F4HWN). That’s so kind of them. Thanks so much 🙏🏻
+Special thanks to Jean-Cyrille F6IWW, Fabrice 14RC123, David F4BPP, Olivier 14RC206, Frédéric F4ESO, Stéphane F5LGW, Jorge Ornelas, Laurent F4AXK, Christophe Morel, Clayton W0LED, Pierre Antoine F6FWB and Jean-Claude 14FRS3306 for their [donations](https://www.paypal.com/paypalme/F4HWN). That’s so kind of them. Thanks so much 🙏🏻
 
 # Some photos
 
