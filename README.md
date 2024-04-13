@@ -64,6 +64,10 @@ My firmware is based on [Egzumer](https://github.com/egzumer/uv-k5-firmware-cust
 
 As usual, you can use [online flasher](https://egzumer.github.io/uvtools/?firmwareURL=https://github.com/armel/uv-k5-firmware-custom-feat-F4HWN/raw/main/f4hwn.packed.bin).
 
+> [!NOTE]
+> EN - The source code of this firmware is available on [this repository](https://github.com/armel/uv-k5-firmware-custom). 
+>
+> _FR - Le code source de ce firmware est disponible sur [ce dépôt](https://github.com/armel/uv-k5-firmware-custom)._
 
 > [!NOTE]
 > EN - About Chirp, as many others firmwares, you need to use a dedicated driver available on [this repository](https://github.com/armel/uv-k5-chirp-driver). 
