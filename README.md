@@ -5,8 +5,8 @@ My firmware is based on [Egzumer](https://github.com/egzumer/uv-k5-firmware-cust
 * improve default power settings level (Low ~125mW, Mid ~2W and High ~5W),
 * improve s-meter (IARU recommandations),
 * improve UI: 
-    * menu index, 
-    * s-meter design, 
+    * menu index is always visible, even if a menu is selected,
+    * s-meter new design (Classic or Tiny), 
     * MAIN ONLY screen mode, 
     * DUAL and CROSS screen mode, 
     * RX blink on VFO RX, 
@@ -16,6 +16,9 @@ My firmware is based on [Egzumer](https://github.com/egzumer/uv-k5-firmware-cust
     * CTCSS or DCS value,
     * KeyLock message,
     * last RX,
+    * move BatTxt  menu from 34/63 to 30/63 (just after BatSave menu 29/63),
+    * rename BackLt to BLTime,
+    * rename BltTRX to BLTxRx,
     * and more...
 * new menu entries:
     * add SetLow menu to set low power (<20mW, 125mW, 250mW, 500mW and 1W),
@@ -34,12 +37,14 @@ My firmware is based on [Egzumer](https://github.com/egzumer/uv-k5-firmware-cust
 * improve status bar,
     * add SetPtt mode in status bar,
     * change font and bitmaps,
+    * move USB icon to left of battery information,
+    * add RX and TX timers,
 * new actions:
     * SWITCH RxMode, 
     * SWITCH PTT, 
     * SWITCH WIDE NARROW,
     * 1750Hz,
-    * BlMin Tmp Pff,
+    * BlMin Tmp Off,
 * new key combinations:
     * add the F + UP or F + DOWN key combination to dynamically change the Squelch level,
     * add the F + F1 or F + F2 key combination to dynamically change the Step,
