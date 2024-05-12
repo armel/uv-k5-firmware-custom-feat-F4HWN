@@ -9,7 +9,7 @@
 # [FR] Ce dépôt est devenu obsolète. 
 ## J'ai créé ce dépôt au tout début de mon travail. Mais il n'était utilisé que pour distribuer des versions compilées de mon firmware. Or, comme vous le savez, mon firmware est totalement open source, sous licence Apache 2.0. Le code source de mon firmware se trouvait sur un autre dépôt. 
 ## Je pense qu'il est temps de tout mettre dans un seul dépôt. Ce sera beaucoup plus simple pour vous et moi. 
-## Je vous invite donc à forker et starifier le dépôt [uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom). Toutes les [issues](https://github.com/armel/uv-k5-firmware-custom/issues) (ouvertes et fermées) y ont été déplacées. D'ailleurs, vous ne pouvez plus poster d'issue ici.
+## Je vous invite donc à forker et étoiler le dépôt [uv-k5-firmware-custom](https://github.com/armel/uv-k5-firmware-custom). Toutes les [issues](https://github.com/armel/uv-k5-firmware-custom/issues) (ouvertes et fermées) y ont été déplacées. D'ailleurs, vous ne pouvez plus poster d'issue ici.
 ## Je supprimerais ce repository dans quelques jours...
 
 ## Merci et 73 de F4HWN Armel.
